@@ -1,4 +1,3 @@
-# pekanan5-katalon
 ## List Test Case Scenario
 [Test Scenario](https://docs.google.com/spreadsheets/d/1MvHQFl6jdKVSPMM-GdbDzIgEF1tBOtUMxlAbU6bBeFM/edit?usp=sharing)
 ## Video Recording
