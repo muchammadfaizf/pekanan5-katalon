@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a06a60ad-7200-431f-92a9-4e95d720d759</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3807379-ddbd-4c62-ae7c-c68f21a991b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CurrentURL'</defaultValue>
+      <description></description>
+      <id>b3807379-ddbd-4c62-ae7c-c68f21a991b0</id>
+      <masked>true</masked>
+      <name>CurrentURL</name>
+   </variable>
+</TestCaseEntity>
